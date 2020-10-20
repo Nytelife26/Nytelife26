@@ -1,16 +1,47 @@
-### Hi there 👋
+<h1 align="center"> Hello! I'm N26. Welcome to my profile :wave: </h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nytelife26&style=flat-square&color=722F37" alt="N26" />
+  <img src="https://badges.pufler.dev/years/Nytelife26?style=flat-square&color=232325" alt="N26" />
+  <img src="https://badges.pufler.dev/repos/Nytelife26?style=flat-square&color=722F37" alt="N26" />
+</p>
 
-<!--
-**Nytelife26/Nytelife26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  My name is Tyler John Russell, or <a href="https://keybase.io/nytelife26">
+  Nytelife26 on the internet</a>. I am a tech enthusiast and hobbyist software
+  engineer from a small city in the UK, currently studying Electronics,
+  Computer Science and Mathematics at King Edward VI College.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  My most notable projects are my work as a lead developer at: <br />
+  - <a href="https://github.com/syrus-bot/syrus-bot">Syrus</a>, a Discord bot
+  built on node.js <br />
+  - <a href="https://github.com/Nytelife26/azurcord">Mio</a>, a Discord bot
+  built on Python <br /> 
+  - Kludge Cyber Systems INTL., a former tech consultancy and enthusiast 
+  forum <br />
+  - or my Python 3 port of <a href="https://github.com/Nytelife26/fbi">FBI</a>,
+  a Facebook reconnaissance utility for social engineering.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  Currently, my focuses are based around
+  <a href="https://github.com/syrus-bot/syrus-bot">Syrus</a>, and I plan to
+  continue working on <a href="https://github.com/Nytelife26/fbi">FBI</a>
+  and start a VPN / secure email service in the future.
+</p>
+
+<p align="center">
+  I'm primarily around on <a href="https://discord.com">Discord<a> at
+  Nytelife26#7883, although you can reach me anywhere at 
+  <a href="https://keybase.io/nytelife26">Nytelife26</a>, or on my 
+  <a href="mailto://nytelife@protonmail.com">secure email</a>.
+</p>
+
+<h2 align="center"> Miscellaneous info </h2>
+<h3 align="center"> My stats :heart: </h3>
+
+<p align="center">
+  <a href="#"><img width=400 src="https://github-readme-stats.vercel.app/api/?username=nytelife26&show_icons=true&hide_border=true&count_private=true&custom_title=N26&#39s%20GitHub%20Stats" /></a>
+  <a href="#"><img width=400 src="https://github-readme-stats.vercel.app/api/top-langs/?username=nytelife26&show_icons=true&hide_border=true&count_private=true&layout=compact&languages=8" /></a>
+</p>
