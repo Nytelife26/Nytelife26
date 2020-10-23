@@ -31,11 +31,11 @@
   and start a VPN / secure email service in the future.
 </p>
 
+<h2 align="center"> Here's how to contact me! :mailbox: </h2>
 <p align="center">
-  I'm primarily around on <a href="https://discord.com">Discord<a> at
-  Nytelife26#7883, although you can reach me anywhere at 
-  <a href="https://keybase.io/nytelife26">Nytelife26</a>, or on my 
-  <a href="mailto://nytelife@protonmail.com">secure email</a>.
+  <a href="https://discordhub.com/profile/186882941966614528"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"><a>
+  <a href="https://keybase.io/nytelife26"><img src="https://img.shields.io/badge/keybase-33A0FF?&style=for-the-badge&logo=keybase&logoColor=white"></a>
+  <a href="mailto://nytelife@protonmail.com"><img src="https://img.shields.io/badge/protonmail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white"></a>
 </p>
 
 <h2 align="center"> Miscellaneous info </h2>
