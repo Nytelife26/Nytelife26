@@ -17,9 +17,11 @@
   - <a href="https://github.com/syrus-bot/syrus-bot">Syrus</a>, a Discord bot
   built on node.js <br />
   - <a href="https://github.com/Nytelife26/azurcord">Mio</a>, a Discord bot
-  built on Python <br /> 
-  - Kludge Cyber Systems INTL., a former tech consultancy and enthusiast 
+  built on Python <br />
+  - Kludge Cyber Systems INTL., a former tech consultancy and enthusiast
   forum <br />
+  - <a href="https://github.com/kludge-cs">Kludge Cyber Systems Ltd.</a>, my
+  startup technology company focused on modern development and OSS <br />
   - or my Python 3 port of <a href="https://github.com/Nytelife26/fbi">FBI</a>,
   a Facebook reconnaissance utility for social engineering.
 </p>
