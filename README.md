@@ -28,9 +28,8 @@
 
 <p align="center">
   Currently, my focuses are based around
-  <a href="https://github.com/syrus-bot/syrus-bot">Syrus</a>, and I plan to
-  continue working on <a href="https://github.com/Nytelife26/fbi">FBI</a>
-  and start a VPN / secure email service in the future.
+  <a href="https://github.com/amperser/proselint">Proselint</a> and
+  <a href="https://github.com/sapphiredev">Sapphire</a>.
 </p>
 
 <h2 align="center"> Here's how to contact me! :mailbox: </h2>
