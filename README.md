@@ -34,7 +34,7 @@
 
 <h2 align="center"> Here's how to contact me! :mailbox: </h2>
 <p align="center">
-  <a href="https://discordhub.com/profile/186882941966614528"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"><a>
+  <a href="https://discordhub.com/profile/699399006715117629"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"><a>
   <a href="https://keybase.io/nytelife26"><img src="https://img.shields.io/badge/keybase-33A0FF?&style=for-the-badge&logo=keybase&logoColor=white"></a>
   <a href="mailto://nytelife@protonmail.com"><img src="https://img.shields.io/badge/protonmail-8B89CC?&style=for-the-badge&logo=protonmail&logoColor=white"></a>
 </p>
