@@ -1,4 +1,4 @@
-<h1 align="center"> Hello! I'm N26. Welcome to my profile :wave: </h1>
+<h1 align="center"> Hi! I'm N26. Welcome to my profile :wave: </h1>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Nytelife26&style=flat-square&color=722F37" alt="N26" />
   <img src="https://badges.pufler.dev/years/Nytelife26?style=flat-square&color=232325" alt="N26" />
@@ -7,9 +7,9 @@
 
 <p align="center">
   My name is Tyler John Russell, or <a href="https://keybase.io/nytelife26">
-  Nytelife26 on the internet</a>. I am a tech enthusiast and hobbyist software
-  engineer from a small city in the UK, currently studying Electronics,
-  Computer Science and Mathematics at King Edward VI College.
+  Nytelife26 on the internet</a>. I am an amateur linguist, hobbyist author,
+  and part-time software engineer from a small town in the UK, currently
+  studying Computer Science at Coventry University.
 </p>
 
 <p align="center">
@@ -22,8 +22,6 @@
   forum <br />
   - <a href="https://github.com/kludge-cs">Kludge Cyber Systems Ltd.</a>, my
   startup technology company focused on modern development and OSS <br />
-  - or my Python 3 port of <a href="https://github.com/Nytelife26/fbi">FBI</a>,
-  a Facebook reconnaissance utility for social engineering.
 </p>
 
 <p align="center">
@@ -32,7 +30,7 @@
   <a href="https://github.com/sapphiredev">Sapphire</a>.
 </p>
 
-<h2 align="center"> Here's how to contact me! :mailbox: </h2>
+<h2 align="center"> Contact me :mailbox: </h2>
 <p align="center">
   <a href="https://discordhub.com/profile/699399006715117629"><img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"><a>
   <a href="https://keybase.io/nytelife26"><img src="https://img.shields.io/badge/keybase-33A0FF?&style=for-the-badge&logo=keybase&logoColor=white"></a>
